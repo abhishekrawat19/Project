@@ -12,3 +12,6 @@ print("abc")
 """
 abchasjia
 """
+'''
+xsxs
+'''
