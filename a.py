@@ -11,6 +11,11 @@ cnsjnc
 print("abc")
 """
 abchasjia
+xnkcjzk
+sxmcikjs
+sjijs
+sk
+
 """
 '''
 xsxs
